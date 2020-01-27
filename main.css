@@ -1,0 +1,105 @@
+.header{
+    border-bottom: 5px solid black;
+    background-image: url(https://scx1.b-cdn.net/csz/news/800/2019/4-space.jpg);
+    text-align: right;
+    padding-top: 1px;
+    padding-right: 5px;
+    height: 75px;
+}
+#about {
+    display: inline-block;
+    border: 2px solid red;
+    background-color: lightgreen;
+}
+#about:hover{
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#main{
+    display: inline-block;
+    border: 2px solid red;
+    background-color: lightgreen;
+}
+#main:hover{
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#contact{
+    display: inline-block;
+    border: 2px solid red;
+    background-color: lightgreen;
+}
+#contact:hover{
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.content{
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+    background-color: royalblue;
+    text-align: center;
+    width: 500px;
+    margin-top: 55px;
+    margin-left: 500px;
+    height: 400px;
+}
+body{
+ margin: auto;
+    background-color: darkblue;
+    padding: 0px;
+}
+#button{
+    background-color: lightgreen;
+    border: none;
+}
+#button:hover{
+    background-color: yellow;
+    color: red;
+    border: 2px solid black;
+    font-weight: bold;
+}
+#username{
+    border: 2px solid black;
+}
+#email{
+    border: 2px solid black;
+}
+#password{
+    border: 2px solid black;
+}
+#Create{
+border-bottom: 5px double black;
+}
+div.footer{
+    background-image: url(https://scx1.b-cdn.net/csz/news/800/2019/4-space.jpg);
+    height: auto;
+    border-top: 5px solid black;
+    position: relative;
+    bottom: -87px;
+    color: white;
+}
+#aboutUs{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+#contactUs{
+    padding-right: 2px;
+    padding-left: 2px;
+}
+#mainMenu{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.logos{
+    width: 30px;
+    height: 30px;
+    border-radius: 0%;
+}
